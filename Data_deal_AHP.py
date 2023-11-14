@@ -76,5 +76,3 @@ def calculate_ahp():
         print(Q)                              #  输出权重向量
     else:
         print("重要性A未通过一致性检验，需对对比矩阵A重新构造")
-
-vrprofile_sort(folder_path='F:/硕士-课题/马楠-科研数据/论文1-基因组水平上的益生菌风险评估/益生菌安全性评估/数据重新构建/VRprofile_Download/')
